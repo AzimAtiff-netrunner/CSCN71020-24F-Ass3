@@ -9,7 +9,7 @@ int main(void) {
 }
 
 
-void RPSfunction() {
+const char* RPSfunction(const char* P1, const char* P2) {
 
 
 
